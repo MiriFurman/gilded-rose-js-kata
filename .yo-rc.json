@@ -1,0 +1,9 @@
+{
+  "generator-wix-js": {
+    "promptValues": {
+      "authorName": "Itai Ben David",
+      "authorEmail": "itaibd@wix.com",
+      "groupId": "com.wixpress.fed.infra"
+    }
+  }
+}
