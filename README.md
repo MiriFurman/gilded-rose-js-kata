@@ -10,9 +10,10 @@ We have some complex legacy code that is not readable nor is covered with tests.
 
 1. Clone this repo: `git clone git@github.com:wix-private/gilded-rose-js-kata.git`
 2. Read the requirements below to understand the product
-3. Start writing tests & refactoring while keeping [Clean-Code rules](https://github.com/ryanmcdermott/clean-code-javascript) in mind
-4. Add the new functionaly once the code stops smelling like 💩
-5. Refactor some more until the code looks like 💎
+3. Open your favorite editor and run Wallaby
+4. Start writing tests & refactoring while keeping [Clean-Code rules](https://github.com/ryanmcdermott/clean-code-javascript) in mind
+5. Add the new functionaly once the code stops smelling like 💩 (TDD!!!)
+6. Refactor some more until the code looks like 💎
 
 ## Requirements
 
